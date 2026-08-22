@@ -18,4 +18,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/ShashankCA/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0007-reverse-integer](https://github.com/ShashankCA/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 <!---LeetCode Topics End-->
