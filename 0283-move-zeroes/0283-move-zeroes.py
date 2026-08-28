@@ -10,3 +10,6 @@ obj = Solution()
 nums = [0, 1, 0, 3, 12]
 obj.moveZeroes(nums)
 print(nums)
+
+       
+
