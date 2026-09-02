@@ -17,6 +17,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ShashankCA/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShashankCA/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/ShashankCA/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShashankCA/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0189-rotate-array](https://github.com/ShashankCA/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/ShashankCA/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/ShashankCA/Leetcode/tree/main/0283-move-zeroes/) | Easy |
@@ -71,6 +72,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/ShashankCA/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShashankCA/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/ShashankCA/Leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShashankCA/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/ShashankCA/Leetcode/tree/main/0268-missing-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
