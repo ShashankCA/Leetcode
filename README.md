@@ -87,6 +87,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/ShashankCA/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/ShashankCA/Leetcode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
