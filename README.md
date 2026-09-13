@@ -15,6 +15,7 @@
 | [0053-maximum-subarray](https://github.com/ShashankCA/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/ShashankCA/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ShashankCA/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0078-subsets](https://github.com/ShashankCA/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShashankCA/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShashankCA/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/ShashankCA/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -87,6 +88,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/ShashankCA/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/ShashankCA/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/ShashankCA/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/ShashankCA/Leetcode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
@@ -126,4 +128,8 @@
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/ShashankCA/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ShashankCA/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/ShashankCA/Leetcode/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
