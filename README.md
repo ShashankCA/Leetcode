@@ -21,6 +21,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/ShashankCA/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/ShashankCA/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShashankCA/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0169-majority-element](https://github.com/ShashankCA/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/ShashankCA/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/ShashankCA/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/ShashankCA/Leetcode/tree/main/0283-move-zeroes/) | Easy |
@@ -34,11 +35,13 @@
 | [0128-longest-consecutive-sequence](https://github.com/ShashankCA/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/ShashankCA/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ShashankCA/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0169-majority-element](https://github.com/ShashankCA/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/ShashankCA/Leetcode/tree/main/0268-missing-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/ShashankCA/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/ShashankCA/Leetcode/tree/main/0169-majority-element/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +100,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/ShashankCA/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/ShashankCA/Leetcode/tree/main/0018-4sum/) | Medium |
+| [0169-majority-element](https://github.com/ShashankCA/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/ShashankCA/Leetcode/tree/main/0268-missing-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -132,4 +136,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/ShashankCA/Leetcode/tree/main/0078-subsets/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/ShashankCA/Leetcode/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/ShashankCA/Leetcode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
