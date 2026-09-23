@@ -26,6 +26,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShashankCA/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/ShashankCA/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/ShashankCA/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0216-combination-sum-iii](https://github.com/ShashankCA/Leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0268-missing-number](https://github.com/ShashankCA/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/ShashankCA/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/ShashankCA/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -146,6 +147,7 @@
 | [0039-combination-sum](https://github.com/ShashankCA/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/ShashankCA/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/ShashankCA/Leetcode/tree/main/0078-subsets/) | Medium |
+| [0216-combination-sum-iii](https://github.com/ShashankCA/Leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
