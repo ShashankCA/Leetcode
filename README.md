@@ -32,6 +32,7 @@
 | [0485-max-consecutive-ones](https://github.com/ShashankCA/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1470-shuffle-the-array](https://github.com/ShashankCA/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/ShashankCA/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/ShashankCA/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/ShashankCA/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShashankCA/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Hash Table
@@ -129,6 +130,7 @@
 | [0048-rotate-image](https://github.com/ShashankCA/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/ShashankCA/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ShashankCA/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [1672-richest-customer-wealth](https://github.com/ShashankCA/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
