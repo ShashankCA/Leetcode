@@ -34,6 +34,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/ShashankCA/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/ShashankCA/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/ShashankCA/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/ShashankCA/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShashankCA/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -119,6 +120,7 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/ShashankCA/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [1929-concatenation-of-array](https://github.com/ShashankCA/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/ShashankCA/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShashankCA/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -170,6 +172,7 @@
 | [0022-generate-parentheses](https://github.com/ShashankCA/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0344-reverse-string](https://github.com/ShashankCA/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/ShashankCA/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/ShashankCA/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
