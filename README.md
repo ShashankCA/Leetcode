@@ -31,6 +31,7 @@
 | [0268-missing-number](https://github.com/ShashankCA/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/ShashankCA/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/ShashankCA/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0605-can-place-flowers](https://github.com/ShashankCA/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [1470-shuffle-the-array](https://github.com/ShashankCA/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/ShashankCA/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/ShashankCA/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -189,4 +190,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/ShashankCA/Leetcode/tree/main/0051-n-queens/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0605-can-place-flowers](https://github.com/ShashankCA/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 <!---LeetCode Topics End-->
