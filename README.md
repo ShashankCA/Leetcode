@@ -177,6 +177,7 @@
 | [0344-reverse-string](https://github.com/ShashankCA/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0771-jewels-and-stones](https://github.com/ShashankCA/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/ShashankCA/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1678-goal-parser-interpretation](https://github.com/ShashankCA/Leetcode/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ShashankCA/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
