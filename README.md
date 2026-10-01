@@ -75,6 +75,7 @@
 | [0268-missing-number](https://github.com/ShashankCA/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/ShashankCA/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/ShashankCA/Leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [2235-add-two-integers](https://github.com/ShashankCA/Leetcode/tree/main/2235-add-two-integers/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
