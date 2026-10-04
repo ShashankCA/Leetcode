@@ -77,6 +77,7 @@
 | [0268-missing-number](https://github.com/ShashankCA/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/ShashankCA/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShashankCA/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ShashankCA/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/ShashankCA/Leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2235-add-two-integers](https://github.com/ShashankCA/Leetcode/tree/main/2235-add-two-integers/) | Easy |
 ## Two Pointers
@@ -117,6 +118,7 @@
 | [0078-subsets](https://github.com/ShashankCA/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/ShashankCA/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/ShashankCA/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ShashankCA/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/ShashankCA/Leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/ShashankCA/Leetcode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Sorting
