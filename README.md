@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ShashankCA/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/ShashankCA/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/ShashankCA/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/ShashankCA/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShashankCA/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -186,6 +187,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/ShashankCA/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShashankCA/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/ShashankCA/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0344-reverse-string](https://github.com/ShashankCA/Leetcode/tree/main/0344-reverse-string/) | Easy |
@@ -217,4 +219,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/ShashankCA/Leetcode/tree/main/0258-add-digits/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/ShashankCA/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
