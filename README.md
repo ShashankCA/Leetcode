@@ -18,6 +18,7 @@
 | [0051-n-queens](https://github.com/ShashankCA/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/ShashankCA/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/ShashankCA/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0066-plus-one](https://github.com/ShashankCA/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/ShashankCA/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0078-subsets](https://github.com/ShashankCA/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShashankCA/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -74,6 +75,7 @@
 | [0007-reverse-integer](https://github.com/ShashankCA/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/ShashankCA/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/ShashankCA/Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0066-plus-one](https://github.com/ShashankCA/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/ShashankCA/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0258-add-digits](https://github.com/ShashankCA/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/ShashankCA/Leetcode/tree/main/0268-missing-number/) | Easy |
