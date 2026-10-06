@@ -30,6 +30,7 @@
 | [0169-majority-element](https://github.com/ShashankCA/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/ShashankCA/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/ShashankCA/Leetcode/tree/main/0216-combination-sum-iii/) | Medium |
+| [0217-contains-duplicate](https://github.com/ShashankCA/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/ShashankCA/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/ShashankCA/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/ShashankCA/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -53,6 +54,7 @@
 | [0141-linked-list-cycle](https://github.com/ShashankCA/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ShashankCA/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0169-majority-element](https://github.com/ShashankCA/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/ShashankCA/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/ShashankCA/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0771-jewels-and-stones](https://github.com/ShashankCA/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShashankCA/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -131,6 +133,7 @@
 | [0015-3sum](https://github.com/ShashankCA/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/ShashankCA/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0169-majority-element](https://github.com/ShashankCA/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/ShashankCA/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/ShashankCA/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShashankCA/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Simulation
