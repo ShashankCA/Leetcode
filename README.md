@@ -34,6 +34,7 @@
 | [0238-product-of-array-except-self](https://github.com/ShashankCA/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/ShashankCA/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/ShashankCA/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/ShashankCA/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/ShashankCA/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0605-can-place-flowers](https://github.com/ShashankCA/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShashankCA/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -57,6 +58,7 @@
 | [0169-majority-element](https://github.com/ShashankCA/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/ShashankCA/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/ShashankCA/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/ShashankCA/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0771-jewels-and-stones](https://github.com/ShashankCA/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShashankCA/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ShashankCA/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -102,6 +104,7 @@
 | [0189-rotate-array](https://github.com/ShashankCA/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/ShashankCA/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/ShashankCA/Leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/ShashankCA/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/ShashankCA/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShashankCA/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Recursion
@@ -122,6 +125,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShashankCA/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShashankCA/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/ShashankCA/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/ShashankCA/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +143,7 @@
 | [0169-majority-element](https://github.com/ShashankCA/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/ShashankCA/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/ShashankCA/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/ShashankCA/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShashankCA/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
