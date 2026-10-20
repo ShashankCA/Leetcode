@@ -14,3 +14,4 @@ class Solution(object):
             if count[num] > len(nums) // 2:
                 return num
         
+
