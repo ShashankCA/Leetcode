@@ -62,6 +62,7 @@
 | [0268-missing-number](https://github.com/ShashankCA/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/ShashankCA/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0383-ransom-note](https://github.com/ShashankCA/Leetcode/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/ShashankCA/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0771-jewels-and-stones](https://github.com/ShashankCA/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShashankCA/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ShashankCA/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -200,6 +201,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/ShashankCA/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0383-ransom-note](https://github.com/ShashankCA/Leetcode/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/ShashankCA/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -214,6 +216,7 @@
 | [0242-valid-anagram](https://github.com/ShashankCA/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/ShashankCA/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/ShashankCA/Leetcode/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/ShashankCA/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/ShashankCA/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0771-jewels-and-stones](https://github.com/ShashankCA/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/ShashankCA/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
@@ -264,4 +267,5 @@
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ShashankCA/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/ShashankCA/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/ShashankCA/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
