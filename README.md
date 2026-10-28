@@ -41,6 +41,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShashankCA/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1470-shuffle-the-array](https://github.com/ShashankCA/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/ShashankCA/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/ShashankCA/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/ShashankCA/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/ShashankCA/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/ShashankCA/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -65,6 +66,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/ShashankCA/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0771-jewels-and-stones](https://github.com/ShashankCA/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShashankCA/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/ShashankCA/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ShashankCA/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -94,6 +96,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShashankCA/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ShashankCA/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/ShashankCA/Leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/ShashankCA/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/ShashankCA/Leetcode/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2235-add-two-integers](https://github.com/ShashankCA/Leetcode/tree/main/2235-add-two-integers/) | Easy |
 ## Two Pointers
@@ -202,6 +205,7 @@
 | [0169-majority-element](https://github.com/ShashankCA/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0383-ransom-note](https://github.com/ShashankCA/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/ShashankCA/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/ShashankCA/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
