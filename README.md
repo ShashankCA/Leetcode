@@ -42,6 +42,7 @@
 | [1470-shuffle-the-array](https://github.com/ShashankCA/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/ShashankCA/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/ShashankCA/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1528-shuffle-string](https://github.com/ShashankCA/Leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/ShashankCA/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/ShashankCA/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/ShashankCA/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -231,6 +232,7 @@
 | [0412-fizz-buzz](https://github.com/ShashankCA/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0771-jewels-and-stones](https://github.com/ShashankCA/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/ShashankCA/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1528-shuffle-string](https://github.com/ShashankCA/Leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/ShashankCA/Leetcode/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ShashankCA/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ShashankCA/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
