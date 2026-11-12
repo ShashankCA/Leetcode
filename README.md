@@ -233,6 +233,7 @@
 | [0771-jewels-and-stones](https://github.com/ShashankCA/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/ShashankCA/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1528-shuffle-string](https://github.com/ShashankCA/Leetcode/tree/main/1528-shuffle-string/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShashankCA/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/ShashankCA/Leetcode/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ShashankCA/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ShashankCA/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -240,6 +241,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/ShashankCA/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShashankCA/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -270,6 +272,7 @@
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ShashankCA/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/ShashankCA/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShashankCA/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
