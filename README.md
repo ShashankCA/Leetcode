@@ -224,6 +224,7 @@
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/ShashankCA/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShashankCA/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0020-valid-parentheses](https://github.com/ShashankCA/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/ShashankCA/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShashankCA/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/ShashankCA/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
@@ -243,6 +244,7 @@
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/ShashankCA/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/ShashankCA/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShashankCA/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Prefix Sum
@@ -273,6 +275,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/ShashankCA/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0225-implement-stack-using-queues](https://github.com/ShashankCA/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/ShashankCA/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShashankCA/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
