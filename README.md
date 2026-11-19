@@ -104,6 +104,7 @@
 | [2119-a-number-after-a-double-reversal](https://github.com/ShashankCA/Leetcode/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2235-add-two-integers](https://github.com/ShashankCA/Leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/ShashankCA/Leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/ShashankCA/Leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2652-sum-multiples](https://github.com/ShashankCA/Leetcode/tree/main/2652-sum-multiples/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
