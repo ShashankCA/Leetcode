@@ -48,6 +48,7 @@
 | [1929-concatenation-of-array](https://github.com/ShashankCA/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ShashankCA/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShashankCA/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ShashankCA/Leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,6 +106,7 @@
 | [2235-add-two-integers](https://github.com/ShashankCA/Leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/ShashankCA/Leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ShashankCA/Leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ShashankCA/Leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2652-sum-multiples](https://github.com/ShashankCA/Leetcode/tree/main/2652-sum-multiples/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
