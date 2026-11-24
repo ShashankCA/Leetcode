@@ -1,21 +1,21 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        i=0
-        a=[]
-        for i in range(len(s)):
-            if s[i]=='('or s[i]=='['or s[i]=='{':
-                a.append(s[i])
+        stack = []
+        
+        for bracket in s:
+            if bracket in "([{":
+                stack.append(bracket)
             else:
-                if not a:
+                if len(stack) == 0:
                     return False
-                top=a.pop()
-                if s[i]==')'and top!='(':
+                ch = stack.pop()
+                if (bracket == ")" and ch == "(") or \
+                   (bracket == "]" and ch == "[") or \
+                   (bracket == "}" and ch == "{"):
+                    continue
+                else:
                     return False
-                if s[i]==']'and top!='[':
-                    return False
-                if s[i]=='}'and top!='{':
-                    return False
-        return len(a)==0
+        return len(stack) == 0
 
             
         
