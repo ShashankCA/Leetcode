@@ -246,6 +246,7 @@
 | [1678-goal-parser-interpretation](https://github.com/ShashankCA/Leetcode/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ShashankCA/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ShashankCA/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2609-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/ShashankCA/Leetcode/tree/main/2609-find-the-longest-balanced-substring-of-a-binary-string/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
